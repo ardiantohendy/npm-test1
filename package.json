@@ -1,0 +1,14 @@
+{
+  "name": "contactapp",
+  "version": "1.0.0",
+  "description": "just my first contact app develop by node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ardianto hendy",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
